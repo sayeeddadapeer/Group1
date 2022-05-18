@@ -7,11 +7,11 @@ Under The Hotel Management System (HMS) Each Group will have below moduels under
 * MySql Version 8.0.28
 ## Features
 * To manage the hotel room bookings.
-*  1. Admin Module to add Users and Receptionists.
-*  2. Receptionist Module to add users and book rooms.
-*  3. Customer Module to book rooms.
-*  4. Admin can add new admin.
-*  5. Admin can also add new Receptionist, and new Customers.
+* Admin Module to add Users and Receptionists.
+* Receptionist Module to add users and book rooms.
+* Customer Module to book rooms.
+* Admin can add new admin.
+* Admin can also add new Receptionist, and new Customers.
 ## GETTING STARTED WITH HOW TO KEEP CODE IN GIT HUB
 1. First, you must install Git Bash.
 2. Here's where you can get Git Bash: https://github.com/git-for-windows/git/releases/download/v2.35.3.windows.1/Git-2.35.3-64-bit.exe
